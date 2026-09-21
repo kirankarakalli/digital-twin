@@ -1,5 +1,6 @@
 project_name             = "twin"
 environment              = "dev"
+github_repository        = "kirankarakalli/digital-twin"
 bedrock_model_id         = "amazon.nova-micro-v1:0"
 lambda_timeout           = 60
 api_throttle_burst_limit = 10
