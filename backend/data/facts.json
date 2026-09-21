@@ -1,0 +1,21 @@
+{
+    "full_name": "Kiran Karakalli",
+    "name": "Kiran",
+    "current_role": "Junior Software Engineer",
+    "location": "Banglore",
+    "email": "kiransasanur92@gmail.com",
+    "linkedin": "linkedin.com/in/kirankarakalli",
+    "specialties": [
+      "C++",
+      "Python",
+      "Data Science/GenAI/AgenticAI"
+    ],
+    "years_experience": 2.5,
+    "education": [
+      {
+        "degree": "BE",
+        "institution": "VTU",
+        "year": "2023"
+      }
+    ]
+  }
